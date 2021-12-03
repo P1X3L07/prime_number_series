@@ -21,7 +21,7 @@ namespace prime_number_series
             {
                 Console.WriteLine("Not a prime num");
             }
-
+            Console.WriteLine("Extra line");
             Console.ReadLine();
         }
     }
